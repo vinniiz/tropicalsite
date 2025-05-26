@@ -1,3 +1,18 @@
 {
-  "airline_icao": "TRP"
+  "flights": [
+    {
+      "callsign": "TRP123",
+      "aircraft": "B737",
+      "departure": "NZAA",
+      "arrival": "NZCH",
+      "status": "enroute"
+    },
+    {
+      "callsign": "TRP456",
+      "aircraft": "A320",
+      "departure": "NZWN",
+      "arrival": "NZAA",
+      "status": "scheduled"
+    }
+  ]
 }
